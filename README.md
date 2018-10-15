@@ -26,7 +26,7 @@ scrapy crawl <dataset>
 | Bonn 2011    | [~~bonn-packts-an-2011.de~~](http://bonn-packts-an-2011.de/www.bonn-packts-an.de/dito/forumc0d2.html) <sup>[2](#myfootnote2)</sup>                                     | 1015 | 8903 | 9918 | 50 seconds | scrapy crawl bonn2011 |
 | Bonn 2015/2016 |[bonn-macht-mit 2015/2016](https://www.bonn-macht-mit.de/dialog/bürgerbeteiligung-am-haushalt-20152016/bhh/online-diskussion) | 335 | 2937 | 3271 | 27 seconds | scrapy crawl bonn2015 |
 | Bonn 2017/2018 |[bonn-macht-mit 2017/2018](https://www.bonn-macht-mit.de/node/871) | 55 | 109 | 164 | 5 seconds | scrapy crawl bonn2017 |
-| Bonn 2019/2020 |[bonn-macht-mit 2019/2020](https://www.bonn-macht-mit.de/node/2900) |  |  | |  | scrapy crawl bonn2019 |
+| Bonn 2019/2020 |[bonn-macht-mit 2019/2020](https://www.bonn-macht-mit.de/node/2900) | 232 | 600 | 832 | 1 minute | scrapy crawl bonn2019 |
 | Braunkohle<sup>[1](#myfootnote1)</sup>| [~~leitentscheidung-braunkohle.nrw~~](https://www.leitentscheidung-braunkohle.nrw/perspektiven/de/home/beteiligen/draftbill/47589/chap/5#chapter) <sup>[2](#myfootnote2)</sup>| 7 | 1296 | 1296 | 32 minutes | scrapy crawl braunkohle|
 | Bürgerbudget Wuppertal |[buergerbudget.wuppertal.de](https://buergerbudget.wuppertal.de/cb/t711bwqTXj3GSGiEVwa3li3YZDqvq4pL?type=phase1) | 261 | | | 4 minutes | scrapy crawl wuppertal2017 |
 | Köln 2012 | [buergerhaushalt.stadt-koeln.de/2012/diskussion](https://buergerhaushalt.stadt-koeln.de/2012/diskussion) | 594 | 1879 | 2473 | 18 minutes | scrapy crawl koeln2012|
